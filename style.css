@@ -64,6 +64,10 @@ body
 .centre1:hover{
   border: 5px double rgb(0, 170, 0);
 }
+
+.c1{
+  display: flex;
+}
 .body {
   position: relative;
   min-height: 100vh;
